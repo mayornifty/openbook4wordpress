@@ -1,4 +1,5 @@
 #summary Legal note regarding copying of book cover images
+#labels legal
 
 <h3>Legal Note</h3>
 
