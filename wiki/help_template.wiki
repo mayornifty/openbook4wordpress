@@ -1,5 +1,5 @@
 #summary Help with OpenBook templates
-#labels support,templates
+#labels templates
 
 <h1>!OpenBook Template Help</h1>
 
