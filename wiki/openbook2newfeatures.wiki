@@ -1,5 +1,5 @@
 #summary A list of features in OpenBook 2.0.
-#labels openbook,version2.0
+#labels version2.0
 
 =OPENBOOK 2.0 FEATURES=
 
