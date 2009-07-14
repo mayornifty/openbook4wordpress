@@ -22,7 +22,7 @@ By default, !OpenBook provides links to Open Library, !LibraryThing, !GoogleBook
   * If Open Library does not have an ISBN, !OpenBook uses the book title and author in the links
 
 === OPTIONS PANEL ===
-The panel is found under Settings|OpenBook. When you activated !OpenBook, default settings were saved to your MySQL database. You can safely modify and save changes. If you run into problems, click the 'Reset to Installation Values' button. If you deactivate !OpenBook, your custom settings will be kept in the database for later reactivation.
+The panel is found under Settings | !OpenBook. When you activated !OpenBook, default settings were saved to your MySQL database. You can safely modify and save changes. If you run into problems, click the 'Reset to Installation Values' button. If you deactivate !OpenBook, your custom settings will be kept in the database for later reactivation.
 
 === TEMPLATES ===
 The templates have default text, HTML and !OpenBook display elements. You can stick with the default templates if you like. To use templates number "2" or "3", set the template number inline (see section on Inline Parameters). In the templates, you can put any text or HTML that you like. See "templatehelp.htm" for more information.
