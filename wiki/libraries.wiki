@@ -1,0 +1,22 @@
+#summary Customize OpenBook for your library
+#labels library,libraries,OpenURL
+
+<h1>!OpenBook for Libraries</h1>
+
+Librarians use !OpenBook to promote books on their library websites or related blogs. You can customize !OpenBook for your particular library.
+
+<h3>Find in a Library</h3>
+
+!OpenBook has a 'Find in a Library' link. By default, the link points to the <a href="version2.0">!WorldCat</a> record by ISBN. If an ISBN is not available, !OpenBook uses title and author to try identify the work. 
+
+You can customize the 'Find in a Library' link for your library using the !OpenBook Settings panel in !WordPress. 
+
+<h3>OpenURL Resolver</h3>
+
+In the Settings panel, configure an OpenURL resolver for your library. You can obtain the resolver URI from your library's system administrator or from the <a href="http://www.worldcat.org/registry/institutions">WorldCat registry</a>. !OpenBook will point the 'Find in a Library' link to your resolver.
+
+Your resolver works the way your library has built it. It may take the patron directly to the catalogue record for the book, or it may provide useful links for finding the book in your library.
+
+<h3>Phrase</h3>
+
+In the Settings panel, you can change the 'Find in a Library' phrase to something more specific for your library, e.g., 'Find in the UWO Library'.
