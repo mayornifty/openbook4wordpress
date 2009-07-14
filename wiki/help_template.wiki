@@ -1,5 +1,5 @@
 #summary Help with OpenBook templates
-#labels templates
+#labels templates,styling
 
 <h1>!OpenBook Template Help</h1>
 
@@ -85,9 +85,3 @@
 <h3>Styling</h3>
 
 <p>You can use inline styling in the templates, or add class attributes in the templates and manage the style in your !WordPress stylesheet.</p>
-
-<h3>More Help</h3>
-
-<p><a href="http://wordPress.org/extend/plugins/OpenBook-book-data/">!OpenBook Download Site on !WordPress</a></p>
-<p><a href="http://johnmiedema.ca/OpenBook-WordPress-plugin/">!OpenBook Developer Site</a></p>
-<p>Feel free to contact me, John Miedema, at <a href="mailto:openbook@johnmiedema.ca">openBook@johnmiedema.ca</a></p>
