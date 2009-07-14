@@ -1,4 +1,6 @@
+#summary Help with OpenBook templates
 #labels openbook,support,templates
+
 <h1>!OpenBook Template Help</h1>
 
 <p>Using !OpenBook is as simple as placing a shortcode in a !WordPress post, page or widget, e.g., {{{[openbook booknumber="1234"]}}} where {{{"1234"}}} is an ISBN or Open Library key. Nothing more is required. !OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
