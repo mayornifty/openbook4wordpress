@@ -1,3 +1,4 @@
+<noautolink>
 <h1>OpenBook Template Help</h1>
 
 <p>Using OpenBook is as simple as placing a shortcode in a WordPress post, page or widget, e.g., [openbook booknumber="1234"] where "1234" is an ISBN or Open Library key. Nothing more is required. OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
@@ -92,3 +93,4 @@
 <p><a href="http://wordpress.org/extend/plugins/openbook-book-data/">OpenBook Download Site on WordPress</a></p>
 <p><a href="http://johnmiedema.ca/openbook-wordpress-plugin/">OpenBook Developer Site</a></p>
 <p>Feel free to contact me, John Miedema, at <a href="mailto:openbook@johnmiedema.ca">openbook@johnmiedema.ca</a></p>
+</noautolink>
