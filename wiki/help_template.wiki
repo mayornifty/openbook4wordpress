@@ -1,14 +1,14 @@
-<h1>OpenBook Template Help</h1>
+<h1>!OpenBook Template Help</h1>
 
-<p>Using OpenBook is as simple as placing a shortcode in a WordPress post, page or widget, e.g., [openbook booknumber="1234"] where "1234" is an ISBN or Open Library key. Nothing more is required. OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
+<p>Using !OpenBook is as simple as placing a shortcode in a WordPress post, page or widget, e.g., [!OpenBook booknumber="1234"] where "1234" is an ISBN or Open Library key. Nothing more is required. !OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
 
-<h2>OpenBook Templates</h2>
+<h2>!OpenBook Templates</h2>
 
-<p>The templates are managed in the Settings|OpenBook panel of WordPress dashboard. There are three templates. The first template is used by default. You can use one of the other templates by specifying the template number inline with the shortcode, e.g., [openbook booknumber="1234" templatenumber="2"].</p>
+<p>The templates are managed in the Settings|!OpenBook panel of WordPress dashboard. There are three templates. The first template is used by default. You can use one of the other templates by specifying the template number inline with the shortcode, e.g., [!OpenBook booknumber="1234" templatenumber="2"].</p>
 
 <h2>Display Elements</h2>
 
-<p>Templates determine what OpenBook displays. Templates can contain any text or HTML you want to display. As you see in the default templates, they also contain display elements, items in square brackets. When OpenBook finds one of the display elements, it replaces it with a predefined block of text or HTML. E.g., the "[OB_COVER_MEDIUM]" display element shows an Open Library book cover image of medium size with a link to Open Library. The elements make template assembly easy.</p>
+<p>Templates determine what !OpenBook displays. Templates can contain any text or HTML you want to display. As you see in the default templates, they also contain display elements, items in square brackets. When !OpenBook finds one of the display elements, it replaces it with a predefined block of text or HTML. E.g., the "[OB_COVER_MEDIUM]" display element shows an Open Library book cover image of medium size with a link to Open Library. The elements make template assembly easy.</p>
 
 <p>There are two types of display elements: Open Library and Open Book.</p>
 
@@ -58,7 +58,7 @@
 <tr><td>[OL_NOTES]</td><td>Notes</td></tr>
 </table>
 
-<h3>OpenBook Display Elements</h3>
+<h3>!OpenBook Display Elements</h3>
 
 <p>Open Book display elements use Open Library display elements and other data to construct more complex HTML display elements.</p>
 
@@ -76,7 +76,7 @@
 <tr><td>[OB_LINK_LIBRARYTHING]</td><td>Link to LibraryThing by ISBN or title/author</td></tr>
 <tr><td>[OB_LINK_GOOGLEBOOKS]</td><td>Link to GoogleBooks by ISBN or title/author</td></tr>
 <tr><td>[OB_LINK_BOOKFINDER]</td><td>Link to BookFinder by ISBN or title/author</td></tr>
-<tr><td>[OB_DOT]</td><td>A 'bullet' style delimiter. If an element is missing, OpenBook prevents duplicate dots from appearing beside each other.</td></tr>
+<tr><td>[OB_DOT]</td><td>A 'bullet' style delimiter. If an element is missing, !OpenBook prevents duplicate dots from appearing beside each other.</td></tr>
 </table>
 
 <h3>Styling</h3>
@@ -85,10 +85,10 @@
 
 <h3>Legal Note</h3>
 
-<p>Open Library cover images are provided by publishers. Publishers generally like that people use their cover images because it promotes book sales. This fact does not necessarily protect the rights of cover illustrators. Also, people may be able to upload covers to Open Library for which they do not have rights. In some countries like the United States, thumbnail representations of artwork fall under fair use provisions of copyright law. The size of a thumbnail varies, but all of the book cover images in Open Library are reduced size. Users of OpenBook are advised to comply with their local laws. If a publisher, illustrator or other rights-holder asks you to take down a cover image, please do so.</p>
+<p>Open Library cover images are provided by publishers. Publishers generally like that people use their cover images because it promotes book sales. This fact does not necessarily protect the rights of cover illustrators. Also, people may be able to upload covers to Open Library for which they do not have rights. In some countries like the United States, thumbnail representations of artwork fall under fair use provisions of copyright law. The size of a thumbnail varies, but all of the book cover images in Open Library are reduced size. Users of !OpenBook are advised to comply with their local laws. If a publisher, illustrator or other rights-holder asks you to take down a cover image, please do so.</p>
 
 <h3>More Help</h3>
 
-<p><a href="http://wordpress.org/extend/plugins/openbook-book-data/">OpenBook Download Site on WordPress</a></p>
-<p><a href="http://johnmiedema.ca/openbook-wordpress-plugin/">OpenBook Developer Site</a></p>
-<p>Feel free to contact me, John Miedema, at <a href="mailto:openbook@johnmiedema.ca">openbook@johnmiedema.ca</a></p>
+<p><a href="http://wordpress.org/extend/plugins/!OpenBook-book-data/">!OpenBook Download Site on WordPress</a></p>
+<p><a href="http://johnmiedema.ca/!OpenBook-wordpress-plugin/">!OpenBook Developer Site</a></p>
+<p>Feel free to contact me, John Miedema, at <a href="mailto:!OpenBook@johnmiedema.ca">!OpenBook@johnmiedema.ca</a></p>
