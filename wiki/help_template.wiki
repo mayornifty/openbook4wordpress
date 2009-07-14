@@ -90,6 +90,6 @@
 
 <h3>More Help</h3>
 
-<p><a href="http://WordPress.org/extend/plugins/OpenBook-book-data/">!OpenBook Download Site on !WordPress</a></p>
+<p><a href="http://wordPress.org/extend/plugins/OpenBook-book-data/">!OpenBook Download Site on !WordPress</a></p>
 <p><a href="http://johnmiedema.ca/OpenBook-WordPress-plugin/">!OpenBook Developer Site</a></p>
-<p>Feel free to contact me, John Miedema, at <a href="mailto:openBook@johnmiedema.ca">openBook@johnmiedema.ca</a></p>
+<p>Feel free to contact me, John Miedema, at <a href="mailto:openbook@johnmiedema.ca">openBook@johnmiedema.ca</a></p>
