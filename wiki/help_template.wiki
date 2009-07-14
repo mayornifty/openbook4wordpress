@@ -1,3 +1,4 @@
+#labels openbook,support
 <h1>!OpenBook Template Help</h1>
 
 <p>Using !OpenBook is as simple as placing a shortcode in a WordPress post, page or widget, e.g., {{{[openBook booknumber="1234"]}}} where {{{"1234"}}} is an ISBN or Open Library key. Nothing more is required. !OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
@@ -8,7 +9,7 @@
 
 <h2>Display Elements</h2>
 
-<p>Templates determine what !OpenBook displays. Templates can contain any text or HTML you want to display. As you see in the default templates, they also contain display elements, items in square brackets. When !OpenBook finds one of the display elements, it replaces it with a predefined block of text or HTML. E.g., the "[OB_COVER_MEDIUM]" display element shows an Open Library book cover image of medium size with a link to Open Library. The elements make template assembly easy.</p>
+<p>Templates determine what !OpenBook displays. Templates can contain any text or HTML you want to display. As you see in the default templates, they also contain display elements, items in square brackets. When !OpenBook finds one of the display elements, it replaces it with a predefined block of text or HTML. E.g., the {{{[OB_COVER_MEDIUM]}}} display element shows an Open Library book cover image of medium size with a link to Open Library. The elements make template assembly easy.</p>
 
 <p>There are two types of display elements: Open Library and Open Book.</p>
 
@@ -44,7 +45,7 @@
 <tr><td>{{{[OL_FORMAT]}}}</td><td>Format</td></tr>
 <tr><td>{{{[OL_WEIGHT]}}}</td><td>Weight</td></tr>
 <tr><td>{{{[OL_ISBN13LIST]}}}</td><td>List of 13 digit ISBNs</td></tr>
-<tr><td>{{{[OL_ISBN13FIRST</td><td>First 13 digit ISBN</td></tr>
+<tr><td>{{{[OL_ISBN13FIRST]}}}</td><td>First 13 digit ISBN</td></tr>
 <tr><td>{{{[OL_ISBN10LIST]}}}</td><td>List of 10 digit ISBNs</td></tr>
 <tr><td>{{{[OL_ISBN10FIRST]}}}</td><td>First 10 digit ISBN</td></tr>
 <tr><td>{{{[OL_ISBN]}}}</td><td>13 digit ISBN if available, else 10 digit ISBN, else blank</td></tr>
