@@ -1,6 +1,8 @@
 #summary Customize OpenBook for your library
 #labels library,libraries,OpenURL
 
+Note: This page will be updated very soon.
+
 <h1>!OpenBook for Libraries</h1>
 
 Librarians use !OpenBook to promote books on their library websites or related blogs. You can customize !OpenBook for your particular library.
