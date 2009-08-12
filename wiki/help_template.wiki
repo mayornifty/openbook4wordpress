@@ -3,11 +3,11 @@
 
 <h1>!OpenBook Template Help</h1>
 
-<p>Using !OpenBook is as simple as placing a shortcode in a WordPress post, page or widget, e.g., {{{[openbook booknumber="1234"]}}} where {{{"1234"}}} is an ISBN or Open Library key. Nothing more is required. !OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
+<p>Using !OpenBook is as simple as placing a shortcode in a !WordPress post, page or widget, e.g., {{{[openbook booknumber="1234"]}}} where {{{"1234"}}} is an ISBN or Open Library key. Nothing more is required. !OpenBook will use the default templates to display a book cover, title, author, publisher, and links. This help file is intended for people who want to have more control over the content, ordering, and styling of the display.</p>
 
 <h2>!OpenBook Templates</h2>
 
-<p>The templates are managed in the Settings|!OpenBook panel of WordPress dashboard. There are three templates. The first template is used by default. You can use one of the other templates by specifying the template number inline with the shortcode, e.g., {{{[openbook booknumber="1234" templatenumber="2"]}}}.</p>
+<p>The templates are managed in the Settings|!OpenBook panel of !WordPress dashboard. There are three templates. The first template is used by default. You can use one of the other templates by specifying the template number inline with the shortcode, e.g., {{{[openbook booknumber="1234" templatenumber="2"]}}}.</p>
 
 <h2>Display Elements</h2>
 
@@ -89,4 +89,4 @@
 
 <h3>Styling</h3>
 
-<p>You can use inline styling in the templates, however the best practice is to add class attributes in the templates and manage the style in your WordPress stylesheet.</p>
+<p>You can use inline styling in the templates, however the best practice is to add class attributes in the templates and manage the style in your !WordPress stylesheet.</p>
