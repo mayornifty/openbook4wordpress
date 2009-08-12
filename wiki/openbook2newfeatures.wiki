@@ -16,7 +16,7 @@ Other than booknumber, there are three parameters than may be used inline with t
   # {{{[openbook booknumber="0875743455" publisherurl="http://www.publisher.com"]}}} default=""
 
 === LINK SET ===
-By default, !OpenBook provides links to Open Library, !LibraryThing, !GoogleBooks and !BookFinder. An additional 'Read online' link is provided if Open Library has a scanned copy of the book.
+By default, !OpenBook provides links to Open Library, !WorldCat, !LibraryThing, !GoogleBooks and !BookFinder. An additional 'Read online' link is provided if Open Library has a scanned copy of the book.
   * If the booknumber is an ISBN, that value is used for the links
   * If the booknumber is an Open Library key, !OpenBook looks up the ISBN in Open Library
   * If Open Library does not have an ISBN, !OpenBook uses the book title and author in the links
@@ -28,7 +28,7 @@ The panel is found under Settings | !OpenBook. When you activated !OpenBook, def
 The templates have default text, HTML and !OpenBook display elements. You can stick with the default templates if you like. To use templates number "2" or "3", set the template number inline (see section on Inline Parameters). In the templates, you can put any text or HTML that you like. See "templatehelp.htm" for more information.
 
 === FIND IN A LIBRARY ===
-You can change the name of the 'Find in a Library' link here. By default, !OpenBook points this link to the !WorldCat record. If your library has an OpenURL resolver, you can point !OpenBook to your library records by configuring the resolver here.
+You can configure an OpenURL resolver to point to a library's catalogue records. The link to the resolver can be a custom text link, a custom image for the library, or both.
 
 === OTHER OPTIONS ===
 By default, !OpenBook embeds COinS, invisible bibliographic data for detection by other applications by Zotero. You have the option to turn this off, e.g, if you are embedding COinS in another way. Additional COinS elements have been added.
