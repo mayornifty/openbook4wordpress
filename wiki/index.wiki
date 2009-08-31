@@ -10,6 +10,7 @@ This is a good place to start ...
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/libraries">!OpenBook for Libraries</a></li>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/simpleopenurlresolver">How to Build a Simple OpenURL Resolver</a></li>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/legal">Legal Note about Using Book Covers</a></li>
+</ul>
 
 == Report a Bug or Issue ==
 
@@ -18,4 +19,3 @@ Report a bug or issue <a href="http://code.google.com/p/openbook4wordpress/issue
 == Contact ==
 
 If you are too shy to report a bug, or just have a general question, you can contact me, John, at openbook@johnmiedema.ca.
-
