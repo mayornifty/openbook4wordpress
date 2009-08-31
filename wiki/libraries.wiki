@@ -11,7 +11,7 @@ Many libraries have an OpenURL resolver that websites can use to link to the lib
 
 <h3>Phrase</h3>
 
-If you have configured an OpenURL resolver, you can add {{{[OB_LINK_FINDINLIBRARY]}}} to an OpenBook template. Once added, OpenBook will display a link to the OpenURL resolver, using this phrase for the text link. E.g., "Find in the London Public Library".
+If you have configured an OpenURL resolver, you can add {{{[OB_LINK_FINDINLIBRARY]}}} to an !OpenBook template. Once added, !OpenBook will display a link to the OpenURL resolver, using this phrase for the text link. E.g., "Find in the London Public Library".
 
 <h3>Image Source</h3>
 
