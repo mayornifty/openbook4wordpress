@@ -17,7 +17,5 @@ Report a bug or issue <a href="http://code.google.com/p/openbook4wordpress/issue
 
 == Contact ==
 
-If you are too shy to report a bug, or just have a general question, you can contact me, John, at <a href="mailto:openbook@johnmiedema.ca">openbook@johnmiedema.ca</a>.
-
-
+If you are too shy to report a bug, or just have a general question, you can contact me, John, at openbook@johnmiedema.ca.
 
