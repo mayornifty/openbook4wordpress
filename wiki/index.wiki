@@ -13,7 +13,7 @@
 == Published Articles ==
 
 <ul>
-<li><a href="http://journal.code4lib.org/articles/105">Article in Code4Lib, 2009</a></li>
+<li><a href="http://journal.code4lib.org/articles/105">Article in !Code4Lib, 2009</a></li>
 <li><a href="http://openbook4wordpress.googlecode.com/files/openbookniso.pdf">Article in NISO, 2009</a></li>
 </ul>
 
