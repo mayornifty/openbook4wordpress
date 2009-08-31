@@ -1,4 +1,4 @@
-#summary An index of the !OpenBook wiki content
+#summary An index of the OpenBook wiki content
 
 = Introduction =
 
