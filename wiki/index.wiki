@@ -1,8 +1,8 @@
 #summary An index of the OpenBook wiki content
 
-= Introduction =
+This is a good place to start ...
 
-This is a good place to start for reviewing the OpenBook wiki contents.
+== Wiki Contents ==
 
 <ul>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/openbook2newfeatures">!OpenBook 2 New Features</a></li>
@@ -10,3 +10,14 @@ This is a good place to start for reviewing the OpenBook wiki contents.
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/libraries">!OpenBook for Libraries</a></li>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/simpleopenurlresolver">How to Build a Simple OpenURL Resolver</a></li>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/legal">Legal Note about Using Book Covers</a></li>
+
+== Report a Bug or Issue ==
+
+Report a bug or issue <a href="http://code.google.com/p/openbook4wordpress/issues/list">here</a>. Please don't hesitate. 
+
+== Contact ==
+
+If you are too shy to report a bug, or just have a general question, you can contact me, John, at <a href="mailto:openbook@johnmiedema.ca">openbook@johnmiedema.ca</a>.
+
+
+
