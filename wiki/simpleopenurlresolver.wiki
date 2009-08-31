@@ -1,4 +1,5 @@
 #summary Create a simple OpenURL resolver for your library
+#labels openurl,openurlresolver,libraries
 
 Librarians use blogs and other social software tools to promote their collections. Where it is possible, librarians seek to link web pages to their catalogue records so that patrons can check availability and check out items. Unfortunately, the average library catalogue makes it difficult to achieve this kind of linking.
 
