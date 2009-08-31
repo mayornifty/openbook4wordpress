@@ -1,8 +1,6 @@
-#summary An index of the OpenBook wiki content
+#summary A very good place to start
 
-This is a good place to start ...
-
-== Wiki Contents ==
+== Featured Contents ==
 
 <ul>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/openbook2newfeatures">!OpenBook 2 New Features</a></li>
@@ -12,10 +10,17 @@ This is a good place to start ...
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/legal">Legal Note about Using Book Covers</a></li>
 </ul>
 
+== Published Articles ==
+
+<ul>
+<li><a href="http://journal.code4lib.org/articles/105">Article in Code4Lib, 2009</a></li>
+<li><a href="http://openbook4wordpress.googlecode.com/files/openbookniso.pdf">Article in NISO, 2009</a></li>
+</ul>
+
 == Bugs/Issue ==
 
 Search for a bug or issue <a href="http://code.google.com/p/openbook4wordpress/issues/list">here</a>. If you don't find it, please don't hesitate to report it.
 
 == Contact ==
 
-If you are too shy to report a bug, or just have a general question, you can contact me, John, at openbook@johnmiedema.ca.
+If you are too shy to report a bug, or just have a general question, you can contact me, John, at mailto:openbook@johnmiedema.ca. My website: http://johnmiedema.ca.
