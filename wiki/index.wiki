@@ -23,4 +23,4 @@ Search for a bug or issue <a href="http://code.google.com/p/openbook4wordpress/i
 
 == Contact ==
 
-If you are too shy to report a bug, or just have a general question, you can contact me, John, at mailto:openbook@johnmiedema.ca. My website: http://johnmiedema.ca.
+If you are too shy to report a bug, or just have a general question, you can contact me, John, at openbook@johnmiedema.ca. My website: http://johnmiedema.ca.
