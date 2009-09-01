@@ -1,7 +1,7 @@
 #summary Using OpenBook with Zotero research tool.
 #labels zotero,coins
 
-!OpenBook 1.7 comes with COinS. If you don't know anything about COinS, well, you still don't have to. COinS is simply some hidden book data that other applications can pick up. Why would you want that? Visitors to your site might like to bookmark your book in a reference manager like Zotero. Here's how it works.
+!OpenBook comes with COinS. If you don't know anything about COinS, well, you still don't have to. COinS is simply some hidden book data that other applications can pick up. Why would you want that? Visitors to your site might like to bookmark your book in a reference manager like Zotero. Here's how it works.
 
 1. Using the <a href="http://ca.firefox.yahoo.com/ydownload">Firefox</a> browser, install the Zotero plugin. <a href="http://www.Zotero.org/">See their website for details</a>.
 
