@@ -1,8 +1,8 @@
 #summary A very good place to start
 
-=== OpenBook WordPress Plugin ===
+=== !OpenBook !WordPress Plugin ===
 
-When you insert an OpenBook shortcode with an ISBN or other book number in a WordPress post or widget, the OpenBook plugin replaces it with a book cover image and other book data from Open Library. It also adds links to popular book sites, such as WorldCat, LibraryThing, GoogleBooks and BookFinder. Users have complete control over the content and styling of the display through templates. Librarians can configure OpenBook with an OpenURL resolver to point to their library's records.
+When you insert an !OpenBook shortcode with an ISBN or other book number in a !WordPress post or widget, the !OpenBook plugin replaces it with a book cover image and other book data from Open Library. It also adds links to popular book sites, such as !WorldCat, !LibraryThing, !GoogleBooks and !BookFinder. Users have complete control over the content and styling of the display through templates. Librarians can configure !OpenBook with an OpenURL resolver to point to their library's records.
 
 == Featured Contents ==
 
