@@ -7,7 +7,7 @@
 
 2. Go to a webpage that has !OpenBook, like <a href="http://johnmiedema.ca/!openBook-wordpress-plugin/">this one</a> of mine.
 
-<img src="http://johnmiedema.ca/wordpress/wp-content/uploads/Zotero1.png" alt="" title="Zotero1" width="478" height="319" class="alignnone size-full wp-image-2090" />
+http://johnmiedema.ca/wordpress/wp-content/uploads/Zotero1.png
 
 Notice the book icon in the address bar. The appearance of this icon means that Zotero has detected COinS and is ready to add them. The icon could also be a folder if there are multiple books on a page. 
 
@@ -15,6 +15,6 @@ Notice too the Zotero label in the bottom right corner of the above image. Click
 
 3. Click on the book icon in the address bar. A notification will tell you that the book is being saved to Zotero. If you open Zotero, you will see the !OpenBook book data.
 
-<img src="http://johnmiedema.ca/wordpress/wp-content/uploads/Zotero2.png" alt="" title="Zotero2" width="478" height="319" class="alignnone size-full wp-image-2091" />
+http://johnmiedema.ca/wordpress/wp-content/uploads/Zotero2.png
 
 Right now, !OpenBook captures title, author, publisher, date of publication, and ISBN. A future version of !OpenBook will include more fields.
