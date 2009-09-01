@@ -18,15 +18,15 @@
 <li><a href="http://openbook4wordpress.googlecode.com/files/openbookniso.pdf">Article in NISO, 2009</a></li>
 </ul>
 
-== Requirements/Bugs/Issue ==
+== Source Code ==
+
+The !WordPress server is the official distribution point for <a href="http://wordpress.org/extend/plugins/openbook-book-data/">downloading</a> the current plugin. 
+
+== Troubleshooting ==
 
 !OpenBook has decent requirement testing when the plugin is activated, but you may find additional information <a href="http://code.google.com/p/openbook4wordpress/wiki/pluginrequirements">here</a>.
 
 Search for a bug or issue <a href="http://code.google.com/p/openbook4wordpress/issues/list">here</a>. If you don't find it, please don't hesitate to report it.
-
-== Source Code ==
-
-The !WordPress server is the official distribution point for <a href="http://wordpress.org/extend/plugins/openbook-book-data/">downloading</a> the current plugin. 
 
 == Contact ==
 
