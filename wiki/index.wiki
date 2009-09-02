@@ -44,7 +44,7 @@ The !WordPress server is the official distribution point for <a href="http://wor
 === Licensing and Copyright ===
 
 <ul>
-<li>OpenBook is free and open source software, as per the GPL License that comes with the plugin.</li>
+<li>!OpenBook is free and open source software, as per the GPL License that comes with the plugin.</li>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/legal">Legal Note about Using Book Covers</a></li>
 </ul>
 
