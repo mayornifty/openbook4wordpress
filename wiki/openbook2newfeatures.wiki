@@ -12,7 +12,7 @@ Insert an !OpenBook shortcode in any !WordPress post, page or widget. E.g., {{{[
 === INLINE PARAMETERS ===
 Other than booknumber, there are three parameters than may be used inline with the shortcode to override defaults
   # {{{[openbook booknumber="0875743455" bookversion="2"]}}} default="1"
-  # {{{[openbook booknumber="0875743455" template="2"]}}} default="1"
+  # {{{[openbook booknumber="0875743455" templatenumber="2"]}}} default="1"
   # {{{[openbook booknumber="0875743455" publisherurl="http://www.publisher.com"]}}} default=""
 
 === LINK SET ===
