@@ -5,7 +5,7 @@
 <p>
 <table>
 <tr style="font-weight:bold"><td>Display Element</td><td>Description</td></tr>
-<tr><td>{{{[OL_BOOK_KEY]}}}</td><td>Unique key used by Open Library to identify a book</td></tr>
+<tr><td><strike>{{{[OL_BOOK_KEY]}}}</td><td>Unique key used by Open Library to identify a book</strike></td></tr>
 <tr><td>{{{[OL_COVER_SMALL]}}}</td><td>Url of small-sized cover image</td></tr>
 <tr><td>{{{[OL_COVER_MEDIUM]}}}</td><td>Url of medium-sized cover image</td></tr>
 <tr><td>{{{[OL_COVER_LARGE]}}}</td><td>Url of large-sized cover image</td></tr>
