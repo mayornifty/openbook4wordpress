@@ -18,7 +18,6 @@ Users have complete control over the content and styling of the display through 
 
 <ul>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/templateelements">Template Elements</a></li>
-<li><a href="http://code.google.com/p/openbook4wordpress/wiki/help_template">Help with the Template Display Elements</a></li>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/template_samples">Custom Template Examples</a></li>
 </ul>
 
