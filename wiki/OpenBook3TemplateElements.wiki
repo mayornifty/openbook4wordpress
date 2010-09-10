@@ -81,7 +81,7 @@
 <tr valign="top"><td>{{{[OB_LINK_LIBRARYTHING]}}}</td><td>Link to !LibraryThing record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_WORLDCAT]}}}</td><td>Link to !WorldCat record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_PROJECTGUTENBERG]}}}</td><td>Link to !Project Gutenberg record</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_BOOKFINDER]}}}</td><td>Link to BookFinder record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_BOOKFINDER]}}}</td><td>Link to !BookFinder record</td></tr>
 <tr valign="top"><td>{{{[OB_DOT]}}}</td><td>A 'bullet' style delimiter. If an element is missing, !OpenBook prevents duplicate dots from appearing beside each other.</td></tr>
 
 </table>
