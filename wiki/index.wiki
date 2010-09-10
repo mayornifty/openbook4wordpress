@@ -55,7 +55,7 @@ The !WordPress server is the official distribution point for <a href="http://wor
 
 === Troubleshooting ===
 
-!OpenBook has requirements testing when the plugin is activated, but you may find additional information <a href="http://code.google.com/p/openbook4wordpress/wiki/pluginrequirements">here</a>.
+!OpenBook tests technical requirements when the plugin is activated, but you may find additional information <a href="http://code.google.com/p/openbook4wordpress/wiki/pluginrequirements">here</a>.
 
 Search for a bug or issue <a href="http://code.google.com/p/openbook4wordpress/issues/list">here</a>. If you don't find it, please don't hesitate to report it.
 
