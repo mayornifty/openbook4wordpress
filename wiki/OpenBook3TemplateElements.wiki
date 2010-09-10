@@ -1,4 +1,4 @@
-#summary !OpenBook 3 Template Elements
+#summary OpenBook 3 Template Elements
 
 <p>Use these elements to customize your !OpenBook templates on the Settings page. An item is only displayed if it is available in the Open Library book record. If it is missing, you can add it using the Open Library web page for the book.</p>
 <p>In the !OpenBook templates, you can also add any other custom text or HTML.</p>
