@@ -13,8 +13,9 @@
 
 <p>An item is only displayed if it is available in the Open Library book record. If it is missing, you can add it using the Open Library web page for the book.</p>
 
+<p>There are two types of display elements: Open Library and !OpenBook. The Open Library elements are the root elements used by the !OpenBook elements. The !OpenBook elements are richer in features, but the Open Library raw w give you more control.</p>
+
 <h3>Open Library Display Elements</h3>
-<p>These are the root Open Library elements used by the !OpenBook elements below. The !OpenBook elements are richer in features, but these give you more control. </p>
 
 <p>
 <table>
