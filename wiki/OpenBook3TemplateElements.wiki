@@ -74,14 +74,14 @@
 <tr valign="top"><td>{{{[OB_IMAGE_FINDINLIBRARY]}}}</td><td>Image link to a particular library's records, if an image source and OpenURL resolver is configured in Settings</td></tr>
 <tr valign="top"><td>{{{[OB_COINS]}}}</td><td>Invisible bibliographic for detection by other applications like Zotero</td></tr>
 <tr valign="top"><td>{{{[OB_LINKS]}}}</td><td>List of formatted links</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_AMAZON]}}}</td><td>Link to !Amazon record</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_GOODREADS]}}}</td><td>Link to !Goodreads record</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_GOOGLEBOOKS]}}}</td><td>Link to !Google Books record</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_LIBRARYCONGRESS]}}}</td><td>Link to !Library of Congress record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_AMAZON]}}}</td><td>Link to Amazon record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_GOODREADS]}}}</td><td>Link to Goodreads record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_GOOGLEBOOKS]}}}</td><td>Link to Google Books record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_LIBRARYCONGRESS]}}}</td><td>Link to Library of Congress record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_LIBRARYTHING]}}}</td><td>Link to !LibraryThing record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_WORLDCAT]}}}</td><td>Link to !WorldCat record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_PROJECTGUTENBERG]}}}</td><td>Link to !Project Gutenberg record</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_BOOKFINDER]}}}</td><td>Link to !BookFinder record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_BOOKFINDER]}}}</td><td>Link to BookFinder record</td></tr>
 <tr valign="top"><td>{{{[OB_DOT]}}}</td><td>A 'bullet' style delimiter. If an element is missing, !OpenBook prevents duplicate dots from appearing beside each other.</td></tr>
 
 </table>
