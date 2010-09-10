@@ -8,7 +8,7 @@ When you insert an !OpenBook shortcode with an ISBN or other book number into a 
 
 <ul>
 <li><a href="http://code.google.com/p/openbook4wordpress/wiki/OpenBookFeatures">!OpenBook Features</a></li>
-<li><a href="http://code.google.com/p/openbook4wordpress/wiki/openbookbutton">!The Easy Way to Use OpenBook: The Visual Editor button</a></li>
+<li><a href="http://code.google.com/p/openbook4wordpress/wiki/openbookbutton">The Easy Way to Use !OpenBook: The Visual Editor button</a></li>
 
 </ul>
 
