@@ -39,8 +39,8 @@
 <tr><td>{{{[OL_ID_ISBN10]}}}</td><td>ISBN 10 digit</td></tr>
 <tr><td>{{{[OL_ID_ISBN13]}}}</td><td>ISBN 13 digit</td></tr>
 <tr><td>{{{[OL_ID_LCCN]}}}</td><td>Library of Congress Cataloging Number</td></tr>
-<tr><td>{{{[OL_ID_LIBRARYTHING]}}}</td><td>LibraryThing ID</td></tr>
-<tr><td>{{{[OL_ID_OCLCWORLDCAT]}}}</td><td>WorldCat ID</td></tr>
+<tr><td>{{{[OL_ID_LIBRARYTHING]}}}</td><td>!LibraryThing ID</td></tr>
+<tr><td>{{{[OL_ID_OCLCWORLDCAT]}}}</td><td>!WorldCat ID</td></tr>
 <tr><td>{{{[OL_ID_PROJECTGUTENBERG]}}}</td><td>Project Gutenberg ID</td></tr>
 <tr><td>{{{[OL_ID_OPENLIBRARY]}}}</td><td>Open Library ID</td></tr>
 <tr><td>{{{[OL_ISBN]}}}</td><td>13 digit ISBN if available, else 10 digit ISBN, else blank</td></tr>
@@ -80,7 +80,7 @@
 <tr valign="top"><td>{{{[OB_LINK_LIBRARYCONGRESS]}}}</td><td>Link to Library of Congress record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_LIBRARYTHING]}}}</td><td>Link to !LibraryThing record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_WORLDCAT]}}}</td><td>Link to !WorldCat record</td></tr>
-<tr valign="top"><td>{{{[OB_LINK_PROJECTGUTENBERG]}}}</td><td>Link to !Project Gutenberg record</td></tr>
+<tr valign="top"><td>{{{[OB_LINK_PROJECTGUTENBERG]}}}</td><td>Link to Project Gutenberg record</td></tr>
 <tr valign="top"><td>{{{[OB_LINK_BOOKFINDER]}}}</td><td>Link to !BookFinder record</td></tr>
 <tr valign="top"><td>{{{[OB_DOT]}}}</td><td>A 'bullet' style delimiter. If an element is missing, !OpenBook prevents duplicate dots from appearing beside each other.</td></tr>
 
