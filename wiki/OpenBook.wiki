@@ -1,3 +1,0 @@
-#summary OpenBook WordPress Plugin
-
-<a href="http://code.google.com/p/openbook4wordpress/">OpenBook wiki</a>
