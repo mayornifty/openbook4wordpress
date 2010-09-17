@@ -2,7 +2,7 @@
 
 = !OpenBook !WordPress Plugin =
 
-If you know a book's ISBN you can use !OpenBook to replace it with it with a book cover image and other book data from Open Library. It also adds links to popular book sites, such as !WorldCat, !LibraryThing, and !GoogleBooks. You insert the ISBN into an OpenBook shortcode in a WordPress post, e.g., e.g., {{{[openbook booknumber="1234"]}}} or by clicking the !OpenBook button on the Visual Editor menu.
+If you know a book's ISBN you can use !OpenBook to replace it with it with a book cover image and other book data from Open Library. It also adds links to popular book sites, such as !WorldCat, !LibraryThing, and !GoogleBooks. You insert the ISBN into an !OpenBook shortcode in a !WordPress post, e.g., e.g., {{{[openbook booknumber="1234"]}}} or by clicking the !OpenBook button on the Visual Editor menu.
 
 Users have complete control over the content and styling of the display through templates. Librarians can configure !OpenBook with an OpenURL resolver to point to their library's records.
 
