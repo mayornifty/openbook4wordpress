@@ -60,4 +60,4 @@ Search for a bug or issue <a href="http://code.google.com/p/openbook4wordpress/i
 
 === Contact ===
 
-Please submit all questions through the <a href="http://groups.google.com/group/openbook4wordpress?pli=1">discussion list</a>. 
+Please use this wiki and the <a href="http://groups.google.com/group/openbook4wordpress?pli=1">discussion list</a> for any technical discussion and questions. Thanks.
