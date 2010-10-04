@@ -60,4 +60,4 @@ Search for a bug or issue <a href="http://code.google.com/p/openbook4wordpress/i
 
 === Contact ===
 
-You can contact me, John, at openbook@johnmiedema.ca. My website: http://johnmiedema.ca.
+Please submit all questions through the <a href="http://groups.google.com/group/openbook4wordpress?pli=1">discussion list</a>. 
