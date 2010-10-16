@@ -7,3 +7,5 @@
 <strong>Strange formatting.</strong> If you using !OpenBook and getting strange formatting results, it is possible that your theme or other plugins have a conflict with !OpenBook. Test switching your theme and disabling other plugins, enabling them one at a time. 
 
 <strong>Visual Editor button fails to open form.</strong> I experienced this problem on my production WordPress server when I was using Internet Explorer 8. I resolved it by clicking IE8's "Compatibility View" button.
+
+Also see this <a href="http://code.google.com/p/openbook4wordpress/wiki/pluginrequirements">plugin requirement information</a>.
