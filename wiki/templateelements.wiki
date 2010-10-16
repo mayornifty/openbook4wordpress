@@ -32,16 +32,13 @@
 <tr><td>{{{[OL_AUTHORFIRST]}}}</td><td>First author</td></tr>
 <tr><td>{{{[OL_AUTHORURLFIRST]}}}</td><td>First author URL</td></tr>
 <tr><td>{{{[OL_BYSTATEMENT]}}}</td><td>By statement</td></tr>
-<tr><td>{{{[OL_CONTRIBUTIONLIST]}}}</td><td>List of contributors</td></tr>
 <tr><td>{{{[OL_PUBLISHERLIST]}}}</td><td>List of publishers</td></tr>
 <tr><td>{{{[OL_PUBLISHERFIRST]}}}</td><td>First publisher</td></tr>
 <tr><td>{{{[OL_PUBLISHPLACELIST]}}}</td><td>List of publish places</td></tr>
 <tr><td>{{{[OL_PUBLISHPLACEFIRST]}}}</td><td>First publish place</td></tr>
 <tr><td>{{{[OL_PUBLISHDATE]}}}</td><td>Publish date</td></tr>
 <tr><td>{{{[OL_PAGINATION]}}}</td><td>Pagination</td></tr>
-<tr><td>{{{[OL_SIZE]}}}</td><td>Size</td></tr>
 <tr><td>{{{[OL_PAGES]}}}</td><td>Pages</td></tr>
-<tr><td>{{{[OL_FORMAT]}}}</td><td>Format</td></tr>
 <tr><td>{{{[OL_WEIGHT]}}}</td><td>Weight</td></tr>
 
 <tr><td>{{{[OL_ID_AMAZON]}}}</td><td>Amazon ID</td></tr>
@@ -56,7 +53,6 @@
 <tr><td>{{{[OL_ID_OPENLIBRARY]}}}</td><td>Open Library ID</td></tr>
 <tr><td>{{{[OL_ISBN]}}}</td><td>13 digit ISBN if available, else 10 digit ISBN, else blank</td></tr>
 <tr><td>{{{[OL_SUBJECTLIST]}}}</td><td>List of subjects</td></tr>
-<tr><td>{{{[OL_DESCRIPTION]}}}</td><td>Description</td></tr>
 <tr><td>{{{[OL_PREVIEW_URL]}}}</td><td>Indicates if an ebook version is available</td></tr>
 <tr><td>{{{[OL_LINKTITLES]}}}</td><td>A list of link titles, goes with the link URLs</td></tr>
 <tr><td>{{{[OL_LINKURLS]}}}</td><td>A list of links</td></tr>
