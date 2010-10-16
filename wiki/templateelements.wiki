@@ -25,7 +25,6 @@
 <tr><td>{{{[OL_COVER_SMALL]}}}</td><td>Url of small-sized cover image</td></tr>
 <tr><td>{{{[OL_COVER_MEDIUM]}}}</td><td>Url of medium-sized cover image</td></tr>
 <tr><td>{{{[OL_COVER_LARGE]}}}</td><td>Url of large-sized cover image</td></tr>
-<tr><td>{{{[OL_TITLEPREFIX]}}}</td><td>Title prefix</td></tr>
 <tr><td>{{{[OL_TITLE]}}}</td><td>Title</td></tr>
 <tr><td>{{{[OL_SUBTITLE]}}}</td><td>Subtitle</td></tr>
 <tr><td>{{{[OL_AUTHORLIST]}}}</td><td>List of authors</td></tr>
