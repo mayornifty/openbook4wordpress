@@ -8,9 +8,9 @@
 
 !OpenBook provides two methods of loading book data. The default method inserts a tidy shortcode into your post, and fetches the data live from Open Library when a visitor views your page. The HTML method inserts longer, formatted HTML in your post; when a visitor views your page no Open Library API call is required (only the cover images are loaded remotely). <a href="http://code.google.com/p/openbook4wordpress/wiki/insertbooknumbers">Two ways to insert book numbers</a>
 
-OpenBook provides templates to give users complete control over the content and styling of the display. OpenBook comes with five templates with default display elements. Users can modify the templates with different display elements, custom text and images.
+!OpenBook provides templates to give users complete control over the content and styling of the display. !OpenBook comes with five templates with default display elements. Users can modify the templates with different display elements, custom text and images.
 
-Librarians can link from their WordPress posts directly to book entries in their library catalogues by configuring !OpenBook with an OpenURL resolver.
+Librarians can link from their !WordPress posts directly to book entries in their library catalogues by configuring !OpenBook with an OpenURL resolver.
 
 === Using Templates ===
 
