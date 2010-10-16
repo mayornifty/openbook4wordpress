@@ -1,2 +1,7 @@
 #summary Solutions to problems others have experienced
 
+
+
+<strong>Blank post</strong> If you are using !OpenBook and nothing is happening, e.g., blank post, it is likely that a PHP error is occuring due to a missing requirement, but that !WordPress is suppressing the error. For troubleshooting, enable error reporting. See this <a href="http://forums.westhost.com/showthread.php?t=10186">thread</a>.
+
+<strong>Strange Formatting</strong> If you using !OpenBook and getting strange formatting results, it is possible that your theme or other plugins have a conflict with !OpenBook. Test switching your theme and disabling other plugins, enabling them one at a time. 
