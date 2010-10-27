@@ -8,4 +8,6 @@
 
 <strong>Visual Editor button fails to open form.</strong> I experienced this problem on my production WordPress server when I was using Internet Explorer 8. I resolved it by clicking IE8's "Compatibility View" button.
 
+<strong>ISBN with an "X" in it</strong>. Some ISBNs at Open Library have a non-standard "X" in them, and do not return data. Use the Open Library ID instead. The bug has been brought to the attention of Open Library.
+
 Also see this <a href="http://code.google.com/p/openbook4wordpress/wiki/pluginrequirements">plugin requirement information</a>.
