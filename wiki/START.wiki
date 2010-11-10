@@ -10,7 +10,7 @@
 
 !OpenBook provides templates to give users complete control over the content and styling of the display. !OpenBook comes with five templates with default display elements. Users can modify the templates with different display elements, custom text and images.
 
-!OpenBook uses !COinS to integrate with applications like !Zotero.
+!OpenBook uses !COinS to integrate with applications like Zotero.
 
 Librarians can link from their !WordPress posts directly to book entries in their library catalogues by configuring !OpenBook with an OpenURL resolver.
 
