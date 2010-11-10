@@ -1,4 +1,4 @@
-#summary Future Development
+#summary Future Development, A Very Good Place to Finish
 
 !OpenBook 3.1 represents the conclusion of my !OpenBook development work. I will continue to support !OpenBook via the support <a href="http://code.google.com/p/!OpenBook4!WordPress/">wiki</a>; in fact a small update will be released soon. However, I am not planning future development. I have spent many volunteer hours developing it to its current state and consider it complete. 
 
