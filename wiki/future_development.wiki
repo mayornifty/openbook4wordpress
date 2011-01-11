@@ -16,8 +16,8 @@ This is not to say that I have not thought of other enhancements:
 	<li><a href="http://bookcoverarchive.com/">Book Cover Archive</a></li>
 	<li><a href="http://www.programmableweb.com/api/bookworm-epub-reader">Bookworm ePub Reader API</a></li>
 	<li><a href="http://www.programmableweb.com/api/isbn-db">ISBN db API</a></li>
-	<li><a href="http://www.librarything.com/wiki/index.php/LibraryThing_JSON_Books_API">LibraryThing</a></li>
-	<li><a href="http://dltj.org/article/oclc-worldcat-basic-api/">WorldCat</a></li>
+	<li><a href="http://www.librarything.com/wiki/index.php/LibraryThing_JSON_Books_API">!LibraryThing</a></li>
+	<li><a href="http://dltj.org/article/oclc-worldcat-basic-api/">!WorldCat</a></li>
 	<li>Wikipedia, perhaps using <a href="http://dbpedia.org/About">DBpedia</a></li>
 </ul>
 
