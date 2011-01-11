@@ -29,7 +29,7 @@ This is not to say that I have not thought of other enhancements:
 	<li>Display standard reference formats, e.g, APA. Take advantage of existing tools, e.g, <a href="http://drupal.org/project/biblio">Drupal's Bibliography Module</a>, <a href="http://xbiblio.sourceforge.net/citeproc/">CiteProc</a>, Zotero.</li>
 </ul>
 
-<strong>Open Book Templates</strong>
+<strong>OpenBook Templates</strong>
 <ul>
 	<li>Let users add any number of templates</li>
 	<li>Users can identify templates by custom tags</li>
