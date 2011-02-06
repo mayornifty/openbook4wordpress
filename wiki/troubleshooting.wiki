@@ -10,4 +10,6 @@
 
 <strong>ISBN with an "X" in it</strong>. Some ISBNs at Open Library have a non-standard "X" in them, and do not return data. Use the Open Library ID instead. The bug has been brought to the attention of Open Library.
 
+<strong>Error message saying that curl must be enabled.</strong> You get this message when you activate OpenBook and the curl library has not been enabled on your web server. If you have just installes XAMPP, uncomment extension=php_curl.dll in your php.ini file, then restart Apache.
+
 Also see this <a href="http://code.google.com/p/openbook4wordpress/wiki/pluginrequirements">plugin requirement information</a>.
