@@ -49,7 +49,7 @@ Once a library has an OpenURL resolver, a librarian may still find it daunting t
 
 Here are links to examples of !OpenBook posts with shortcodes that use the London Public Library OpenURL resolver: <a href="/2008/10/30/safe-haven-by-larry-gaudet-book-review/">Safe Haven</a>, <a href="/2008/09/01/late-nights-on-air-by-elizabeth-hay-book-review/">Late Nights on Air</a>.
 
-Of course, a library does not have to use !WordPress or !OpenBook to make these links. This manual link to <a href="http://johnmiedema.ca/openurlresolvers/londonpubliclibrary.php?url_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Catcher+In+The+Rye&amp;rft.au=J.D.+Salinger&amp;rft.pub=Back+Bay+Books&amp;rft.date=January+30%2C+2001&amp;rft.tpages=288">Catcher in the Rye</a> has no ISBN and demonstrates resolution through the title-author search. Creating manual links in this way is possible, but some kind of auto-generation like the !OpenBook method is more practical. 
+Of course, a library does not have to use !WordPress or !OpenBook to make these links. This manual link to <a href="http://johnmiedema.ca/testscripts/londonpubliclibrary.php?url_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Catcher+In+The+Rye&amp;rft.au=J.D.+Salinger&amp;rft.pub=Back+Bay+Books&amp;rft.date=January+30%2C+2001&amp;rft.tpages=288">Catcher in the Rye</a> has no ISBN and demonstrates resolution through the title-author search. Creating manual links in this way is possible, but some kind of auto-generation like the !OpenBook method is more practical. 
 
 <strong>Conclusion</strong>
 
