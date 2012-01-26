@@ -28,6 +28,6 @@ Countless volunteer hours have generated an enthusiastic following. You can help
 <li>Make a !PayPal donation</li>
 </ul>
 
-I kindly thank you for paying it forward.
+I kindly thank you.
 
 John Miedema, !OpenBook Developer
