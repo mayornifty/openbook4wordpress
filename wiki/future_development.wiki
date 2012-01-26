@@ -1,6 +1,6 @@
 #summary Future Development, A Very Good Place to Finish
 
-!OpenBook 3.1 represents the conclusion of my !OpenBook development work. I will continue to support !OpenBook via the support <a href="http://code.google.com/p/!OpenBook4!WordPress/">wiki</a>; in fact a small update will be released soon. However, I am not planning future development. I have spent many volunteer hours developing it to its current state and consider it complete. 
+!OpenBook 3.2 represents the conclusion of my !OpenBook development work. I will continue to support !OpenBook via the support <a href="http://code.google.com/p/!OpenBook4!WordPress/">wiki</a>. I have spent many volunteer hours developing it to its current state and consider it complete. 
 
 This is not to say that I have not thought of other enhancements:
 
@@ -34,7 +34,6 @@ This is not to say that I have not thought of other enhancements:
 	<li>Let users add any number of templates</li>
 	<li>Users can identify templates by custom tags</li>
 	<li>Show a list of template elements that users can drag and drop into templates, rather than typing them in</li>
-	<li>The long promised, never delivered XHTML compliance. A separate stylesheet.</li>
 </ul>
 
 <strong>!OpenBook Shelf, !OpenBook Theme</strong>
@@ -51,4 +50,4 @@ This is not to say that I have not thought of other enhancements:
 
 The list is long enough to warn me away. If there was strong enough interest for a consulting project, I would consider it. Or, if you are interested in taking over development of this free and open source project, I would facilitate a transition. 
 
-Thank you for the strong interest in !OpenBook, going on three years now. Software is never finished, merely abandoned.
+Thank you for the strong interest in !OpenBook, going on four years now. Software is never finished, merely abandoned.
