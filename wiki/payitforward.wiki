@@ -12,7 +12,7 @@ Dave Bonta is a poet and literary magazine editor from Pennsylvania. He maintain
 
 <ul>
 <li>Via Negativa, a blog written by Dave and guest writers</li>
-<li>Morning Porch, a literary view from Dave' front porch every morning</li>
+<li>Morning Porch, a literary view from Dave's front porch every morning</li>
 <li>Moving Poems, a collection of the best video poems on the web</li>
 <li>Woodrat Photohaiku, a photoblog</li>
 </ul>
