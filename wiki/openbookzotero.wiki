@@ -5,9 +5,7 @@
 
 1. Using the <a href="http://ca.firefox.yahoo.com/ydownload">Firefox</a> browser, install the Zotero plugin. <a href="http://www.Zotero.org/">See their website for details</a>.
 
-2. Go to a webpage that has !OpenBook, like <a href="http://johnmiedema.ca/!openBook-wordpress-plugin/">this one</a> of mine.
-
-http://johnmiedema.ca/wordpress/wp-content/uploads/zotero1.png
+2. Go to a webpage that has !OpenBook installed.
 
 Notice the book icon in the address bar. The appearance of this icon means that Zotero has detected COinS and is ready to add them. The icon could also be a folder if there are multiple books on a page. 
 
@@ -15,6 +13,4 @@ Notice too the Zotero label in the bottom right corner of the above image. Click
 
 3. Click on the book icon in the address bar. A notification will tell you that the book is being saved to Zotero. If you open Zotero, you will see the !OpenBook book data.
 
-http://johnmiedema.ca/wordpress/wp-content/uploads/zotero2.png
-
-Right now, !OpenBook captures title, author, publisher, date of publication, and ISBN. A future version of !OpenBook will include more fields.
+!OpenBook captures title, author, publisher, date of publication, and ISBN.
