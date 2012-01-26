@@ -26,6 +26,6 @@ Template Number. Choose your template number. These numbers match the template n
 
 Publisher URL. Optional. If you include a publisher URL, and the publisher name is part of your template (it is by default), then the name will link to that URL.
 
-Shortcode or HTML. The shortcode option inserts a tidy code in your post and makes a live call to Open Library; this is easier for you. The HTML option inserts longer, formatted HTML in your post; this loads faster for your readers.
+Shortcode or HTML. The default HTML option inserts longer, formatted HTML in your post; this loads faster for your readers. The shortcode option inserts a tidy code in your post and makes a live call to Open Library; this is easier for you. 
 
 Click 'Preview' to inspect the display, or 'Insert' to add the result to your post.
