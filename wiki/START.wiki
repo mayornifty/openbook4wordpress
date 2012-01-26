@@ -70,4 +70,4 @@ Please use this wiki and the <a href="http://groups.google.com/group/openbook4wo
 
 === Pay it Forward for Literacy ===
 
-!OpenBook is an open source plugin, free for anyone's use. I have volunteered countless hours to its production and maintenance. I have also benefited in many unexpected ways. If you already use OpenBook to promote literacy, I am amply rewarded. If you would like to share the love, I encourage you to <a href="http://code.google.com/p/openbook4wordpress/wiki/payitforward">donate</a> to a site that promotes literacy.
+!OpenBook is an open source plugin, free for anyone's use. I have volunteered countless hours to its production and maintenance. I have also benefited in many unexpected ways. If you already use !OpenBook to promote literacy, I am amply rewarded. If you would like to share the love, I encourage you to <a href="http://code.google.com/p/openbook4wordpress/wiki/payitforward">donate</a> to a site that promotes literacy.
