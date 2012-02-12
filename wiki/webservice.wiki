@@ -16,7 +16,7 @@ The web service URL is located on your web server.
 
 Example:
 
-http://bookreviews.johnmiedema.ca/wp-content/plugins/openbook-book-data/ws/openbook-ws.php
+http://bookreviews.johnmiedema.ca/wp-content/plugins/openbook-book-data/ws/openbook-ws.php?booknumber=1896951422
 
 You can also prefix the book number with an Open Library ID (e.g., OLID:OL1397864M) or Library of Congress Classification Number (e.g., LCCN:93005405).
 
