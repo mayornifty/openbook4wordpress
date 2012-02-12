@@ -28,7 +28,7 @@ The sample client application is located on your web server at:
 
 Example:
 
-http://bookreviews.johnmiedema.ca/wp-content/plugins/openBook-book-data/ws/SampleApp.php
+http://bookreviews.johnmiedema.ca/wp-content/plugins/openbook-book-data/ws/SampleApp.php
 
 The client provides simple application code for creating and calling the web service. The sample provides a useful function. It provides a web page interface for entering a book number, calling the web service, previewing the HTML, and showing the HTML response that can be copy-pasted into any web page. This is useful for embedding !OpenBook HTML in web pages that cannot access the !OpenBook plugin for !WordPress.
 
