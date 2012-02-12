@@ -1,4 +1,4 @@
-#summary !OpenBook web service (alpha)
+#summary Web Service (alpha) for hackers and the curious
 
 = Introduction =
 
