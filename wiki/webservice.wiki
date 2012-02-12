@@ -1,0 +1,35 @@
+#summary OpenBook web service (alpha)
+
+= Introduction =
+
+Version 3.3.0 introduced a REST web service to OpenBook. The web service is an alpha version, intended more for hackers and the curious. It permits you to create OpenBook HTML for a book that you embed on any webpage, WordPress or otherwise. A sample client application demonstrates this. You can share the URL to the sample application on your website so that others can generate OpenBook HTML. You can also write other client applications that use the web service directly. 
+
+Again, it is just an alpha version. The only parameter is the book number. The templates and options are all hard-coded. The web service uses static styling and content elements that correspond to the default template 1.
+
+= Web Service =
+
+The web service URL is located on your web server. 
+
+{{{http://}}}_yourdomain.com_{{{/wp-content/plugins/openbook-book-data/ws/openbook-ws.php?booknumber=1896951422}}}
+
+Example:
+
+http://bookreviews.johnmiedema.ca/wp-content/plugins/openbook-book-data/ws/openbook-ws.php?booknumber=1896951422
+
+You can also prefix the book number with an Open Library ID (e.g., OLID:OL1397864M) or Library of Congress Classification Number (e.g., LCCN:93005405).
+
+The service provides an XML response with the OpenBook HTML for the given book number. 
+
+= Sample Client Application =
+
+The sample client application is located on your web server at:
+
+{{{http://}}}_yourdomain.com_{{{/wp-content/plugins/openbook-book-data/ws/SampleApp.php}}}
+
+Example:
+
+http://bookreviews.johnmiedema.ca/wp-content/plugins/openbook-book-data/ws/SampleApp.php
+
+The client provides simple application code for creating and calling the web service. The sample provides a useful function. It provides a web page interface for entering a book number, calling the web service, previewing the HTML, and showing the HTML response that can be copy-pasted into any web page. This is useful for embedding OpenBook HTML in web pages that cannot access the OpenBook plugin for WordPress.
+
+You can write other client applications.
