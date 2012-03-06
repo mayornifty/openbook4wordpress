@@ -8,7 +8,7 @@ It permits you to create !OpenBook HTML for a book that you can embed on any web
 
 The web service is an alpha version, intended more for hackers and the curious. The only parameter is the book number. The templates and options are all hard-coded. The web service uses static styling and content elements that correspond to the default template 1.
 
-This version still has a few bugs and I have since rolled back these updates. The most recent version does not have the web service. You can still <a href="http://wordpress.org/extend/plugins/openbook-book-data/download/">download version 3.3.0</a> with the web service from the !WordPress server, but it is recommend for experimentation only. 
+This version still has a few bugs and I have since rolled back this feature. The most recent version of !OpenBook does not have the web service. You can still <a href="http://wordpress.org/extend/plugins/openbook-book-data/download/">download version 3.3.0</a> with the web service from the !WordPress server, but it is recommend for experimentation only. 
 
 = Web Service =
 
