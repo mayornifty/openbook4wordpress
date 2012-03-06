@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Version 3.3.0 introduced a RESTful web service to !OpenBook. 
+Version 3.3.0 introduced a RESTful web service to !OpenBook. This version still has a few bugs and I have since rolled back these updates. The most recent version does not have the web service. You can still <a href="http://wordpress.org/extend/plugins/openbook-book-data/download/">download version 3.3.0</a> with the web service from the WordPress server, but it is recommend for experimentation only. 
 
 It permits you to create !OpenBook HTML for a book that you can embed on any webpage, !WordPress or otherwise. A sample client application demonstrates this. You can share the URL to the sample application on your website so that others can generate !OpenBook HTML. You can also write other client applications that use the web service directly. 
 
