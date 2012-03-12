@@ -27,9 +27,9 @@ The target catalogue is at London Public Library (LPL) where I am a patron. Ther
 
 <code>3.  parse_str($qs);</code>
 
-<code>4.  if ($rftisbn != '') $url = 'http://catalogue.londonpubliclibrary.ca/search/?searchtype=i&searcharg=' . $rftisbn . '&searchscope=20&SORT=D';</code>
+<code>4.  if ($rft_isbn != '') $url = 'http://catalogue.londonpubliclibrary.ca/search/?searchtype=i&searcharg=' . $rft_isbn . '&searchscope=20&SORT=D';</code>
 
-<code>5.  else $url = 'http://catalogue.londonpubliclibrary.ca/search/X?SEARCH=t:(' . $rftbtitle . ')+and+a:(' . $rftau . ')&SORT=D';</code>
+<code>5.  else $url = 'http://catalogue.londonpubliclibrary.ca/search/X?SEARCH=t:(' . $rft_btitle . ')+and+a:(' . $rft_au . ')&SORT=D';</code>
 
 <code>6.  header("Location: $url");</code>
 
