@@ -49,7 +49,7 @@ Once a library has an OpenURL resolver, a librarian may still find it daunting t
 
 Here are links to examples of !OpenBook posts with shortcodes that use the London Public Library OpenURL resolver: <a href="/2008/10/30/safe-haven-by-larry-gaudet-book-review/">Safe Haven</a>, <a href="/2008/09/01/late-nights-on-air-by-elizabeth-hay-book-review/">Late Nights on Air</a>.
 
-Of course, a library does not have to use !WordPress or !OpenBook to make these links. This manual link to <a href="http://johnmiedema.ca/testscripts/londonpubliclibrary.php?url_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.btitle=White+noise&rft.au=Don+DeLillo&rft.place=%5BNew+York%5D&rft.pub=Penguin+Books&rft.date=1986&rft.tpages=3268">White Noise</a> has no ISBN and demonstrates resolution through the title-author search. Creating manual links in this way is possible, but some kind of auto-generation like the !OpenBook method is more practical. 
+Of course, a library does not have to use !WordPress or !OpenBook to make these links. This manual link to <a href="http://johnmiedema.ca/_scripts/simpleopenurlresolver.php?url_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.btitle=White+noise&rft.au=Don+DeLillo&rft.place=%5BNew+York%5D&rft.pub=Penguin+Books&rft.date=1986&rft.tpages=3268">White Noise</a> has no ISBN and demonstrates resolution through the title-author search. Creating manual links in this way is possible, but some kind of auto-generation like the !OpenBook method is more practical. 
 
 <strong>Conclusion</strong>
 
