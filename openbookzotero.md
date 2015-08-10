@@ -1,0 +1,13 @@
+OpenBook comes with COinS. If you don't know anything about COinS, well, you still don't have to. COinS is simply some hidden book data that other applications can pick up. Why would you want that? Visitors to your site might like to bookmark your book in a reference manager like Zotero. Here's how it works.
+
+1. Using the <a href='http://ca.firefox.yahoo.com/ydownload'>Firefox</a> browser, install the Zotero plugin. <a href='http://www.Zotero.org/'>See their website for details</a>.
+
+2. Go to a webpage that has OpenBook installed.
+
+Notice the book icon in the address bar. The appearance of this icon means that Zotero has detected COinS and is ready to add them. The icon could also be a folder if there are multiple books on a page.
+
+Notice too the Zotero label in the bottom right corner of the above image. Click on it. This will show you your Zotero collection -- empty, if you just installed it. Click on the label again to close it.
+
+3. Click on the book icon in the address bar. A notification will tell you that the book is being saved to Zotero. If you open Zotero, you will see the OpenBook book data.
+
+OpenBook captures title, author, publisher, date of publication, and ISBN.

@@ -1,0 +1,51 @@
+OpenBook 3.2 represents the conclusion of my OpenBook development work. I will continue to support OpenBook via the support <a href='http://code.google.com/p/!OpenBook4!WordPress/'>wiki</a>. I have spent many volunteer hours developing it to its current state and consider it complete.
+
+This is not to say that I have not thought of other enhancements:
+
+<strong>Searching for Books</strong>
+<ul>
+<blockquote><li>Search for books from multiple data sources, not just Open Library (see next)</li>
+<li>Search will show book editions (FRBR) and related ISBNs (xISBN)</li>
+<li>If a book is missing, offer a link to add it to the source (where possible)</li>
+</ul></blockquote>
+
+<strong>Search Multiple Book Data Sources</strong>
+<ul>
+<blockquote><li><a href='http://bookcoverarchive.com/'>Book Cover Archive</a></li>
+<li><a href='http://www.programmableweb.com/api/bookworm-epub-reader'>Bookworm ePub Reader API</a></li>
+<li><a href='http://www.programmableweb.com/api/isbn-db'>ISBN db API</a></li>
+<li><a href='http://www.librarything.com/wiki/index.php/LibraryThing_JSON_Books_API'>LibraryThing</a></li>
+<li><a href='http://dltj.org/article/oclc-worldcat-basic-api/'>WorldCat</a></li>
+<li>Wikipedia, perhaps using <a href='http://dbpedia.org/About'>DBpedia</a></li>
+</ul></blockquote>
+
+<strong>Integrate other Open Source Project Features and Mashups</strong>
+<ul>
+<blockquote><li>Generate COinS using a <a href='http://generator.ocoins.info/'>generator</a></li>
+<li><a href='http://libx.org/'>LibX</a></li>
+<li>Find a source for publisher data</li>
+<li>Display standard reference formats, e.g, APA. Take advantage of existing tools, e.g, <a href='http://drupal.org/project/biblio'>Drupal's Bibliography Module</a>, <a href='http://xbiblio.sourceforge.net/citeproc/'>CiteProc</a>, Zotero.</li>
+</ul></blockquote>
+
+<strong>OpenBook Templates</strong>
+<ul>
+<blockquote><li>Let users add any number of templates</li>
+<li>Users can identify templates by custom tags</li>
+<li>Show a list of template elements that users can drag and drop into templates, rather than typing them in</li>
+</ul></blockquote>
+
+<strong>OpenBook Shelf, OpenBook Theme</strong>
+<ul>
+<blockquote><li>A book shelf in your WordPress sidebar or on a separate page, for all your OpenBook instances. It is begging to be developed. Keep all your OpenBook instances in your WordPress database and then show the collection of them.</li>
+<li>There is an OpenBook WordPress theme that has nothing to do with my plugin. Many WordPress bloggers love to blog about books. Wouldn't it be nice to have a full theme with the plugin, the bookshelf, and many other book-related functions.</li>
+</ul></blockquote>
+
+<strong>Environment</strong>
+<ul>
+<blockquote><li>OpenBook has been coded for internationalization (other languages) but the translations have not yet been collected.</li>
+<li>OpenBook has not been tested in WordPress MU.</li>
+</ul></blockquote>
+
+The list is long enough to warn me away. If there was strong enough interest for a consulting project, I would consider it. Or, if you are interested in taking over development of this free and open source project, I would facilitate a transition.
+
+Thank you for the strong interest in OpenBook, going on four years now. Software is never finished, merely abandoned.

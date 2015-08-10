@@ -1,0 +1,9 @@
+<strong>OpenBook is a WordPress plugin.</strong> You need to have your own WordPress installation, not the free WordPress server which does not support custom plugins.
+
+<strong>Your server must support at least PHP 5.0.</strong> If you are getting an "unexpected {" error when you activate OpenBook, it is because you have an earlier version of PHP. Note: my server was set to PHP4, but upgrading to PHP5 was a <a href='http://support.netfirms.com/article.php?id=713'>simple switch</a>.
+
+OpenBook uses the JSON library. This comes with PHP 5.2, but OpenBook also has a custom JSON library for PHP 5.0 users (e.g., Redhat servers).
+
+OpenBook uses PHPs cURL library. It has been <a href='http://curl.haxx.se/docs/history.html'>available since PHP 4.0.2</a>, but your system administrator may have this package disabled. Here is a <a href='http://www.wallpaperama.com/forums/how-to-find-out-if-php-is-compiled-with-curl-extension-installed-enabled-t1576.html'>simple test</a> for cURL. If it is not enabled, your administrator may wish to consult the <a href='http://ca.php.net/manual/en/curl.setup.php'>PHP installation and configuration notes</a>.
+
+Also see this <a href='http://code.google.com/p/openbook4wordpress/wiki/troubleshooting'>troubleshooting information</a>.

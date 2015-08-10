@@ -1,0 +1,29 @@
+<h1>Two Ways to Insert Book Numbers</h1>
+
+<p>People use OpenBook to transform a simple book number into a book cover image and other rich book data. There are two ways to insert the book number into your WordPress posts.</p>
+
+<h2>Shortcodes</h2>
+
+Book Number. The simplest shortcode looks like `[openbook booknumber="1234567890123"]`. OpenBook will assume that "1234567890123" is an ISBN and look it up in Open Library. If you prefix the number with "OL", OpenBook will assume it is an Open Library key and use that number to look up the book. You can use alternate number types by using the following prefixes: ISBN:1234 is an ISBN number, LCCN:1234 is a Library of Congress Classification Number, OCLC:1234 is an OCLC/WorldCat number, OLID:OL1234 is an Open Library ID. If you use an Open Library ID, you can also specify a revision number using the ampersand symbol, e.g., OLID:OL1234@3 for version 3.
+
+Template Number. Optional. Specify the template number, from 1-5. These numbers match the template numbers on the OpenBook Settings page. If you do not specify a template number, then Template 1 is assumed. E.g., `[openbook booknumber="1234567890123" templatenumber="2"]`.
+
+Publisher URL. Optional. If you include a publisher URL, and the publisher name is part of your template (it is by default), then the name will link to that URL. E.g., `[openbook booknumber="1234567890123" publisherurl="http://randomhouse.ca"]`
+
+<h2>Visual Editor</h2>
+
+OpenBook version 3 introduced a form for entering book numbers. Using the form, you don't have to remember the shortcode syntax, and you can preview the display before inserting the shortcode in your post. The form also allows you to choose the HTML option, described below.
+
+When you create a new post, look for the "OB" button on the Visual Editor toolbar. If you don't see the toolbar, you may have it turned off. In more recent versions of WordPress, this functionality is turned on by going to Options|Users|username and unchecking "Disable the visual editor when writing". When enabled, create a new post, and you will see two tabs on the right of your post, Visual and HTML. The button appears on the Visual tab. Click the button and the form pops up.
+
+Book Number Type and Number. Choose your book number type from the drop-down list and enter your book number.
+
+Revision Number. If you choose the Book Number Type of Open Library Key, the Revision Number box will be enabled. You can enter a specific revision number.
+
+Template Number. Choose your template number. These numbers match the template numbers on your settings page, which is linked from here.
+
+Publisher URL. Optional. If you include a publisher URL, and the publisher name is part of your template (it is by default), then the name will link to that URL.
+
+Shortcode or HTML. The default HTML option inserts longer, formatted HTML in your post; this loads faster for your readers. The shortcode option inserts a tidy code in your post and makes a live call to Open Library; this is easier for you.
+
+Click 'Preview' to inspect the display, or 'Insert' to add the result to your post.
